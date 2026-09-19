@@ -606,3 +606,8 @@ This graph is designed to evolve. New nodes should be added only when their rela
 ## Cross-Domain Synthesis Corpus
 
 - [Living an Asymmetrical Life](./evidence-locker/corpora/living-an-asymmetrical-life.md) — connects maritime life, pandemic interruption, Fair Isle, decision science, Gibraltar, Skyelark, and separately provenance-labeled professional field environments without collapsing their evidence classes.
+
+
+## Five-Book Series Graph
+
+- [The Asymmetrical Life — Five-Book Knowledge Graph](./evidence-locker/FIVE-BOOK-KNOWLEDGE-GRAPH.md) — manuscript-grounded series architecture: **SELF → DECISION → POSITION → UNCERTAINTY → AGENCY**, connected to Operational Readiness through capability under uncertainty.
