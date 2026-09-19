@@ -29,6 +29,8 @@ The Evidence Locker also indexes long-form public archives that show how ideas d
 - **[The World Was Our Port of Call](./corpora/maritime-portable-life.md)** — maritime life, global mobility, reinvention, uncertainty, and the portable-life evidence trail
 - **[Skyelark MacDoglet](./corpora/skyelark-macdoglet.md)** — the human and relational layer: attention, companionship, adaptation, belonging, and wonder
 
+- **[Living an Asymmetrical Life](./corpora/living-an-asymmetrical-life.md)** — cross-domain corpus connecting maritime life, pandemic interruption, Fair Isle, decision science, Gibraltar, Skyelark, and separately provenance-labeled professional field evidence.
+
 ## Evidence Map
 
 | Evidence | Domain | Status | Concepts demonstrated |
