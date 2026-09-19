@@ -2,6 +2,13 @@
 
 ### Frameworks, field tools, and case studies for building judgment and capability under real-world conditions.
 
+
+> **ED REIF FIELD SYSTEM**  
+> [Operational Readiness](https://github.com/theedreif/operational-readiness) → [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [Decision Science](https://github.com/theedreif/decision-science) → [Field Notes](https://github.com/theedreif/field-notes)  
+> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+
+---
+
 > **I build capability, not courses. If it cannot survive the field, it does not count.**
 
 Operational readiness begins where conventional training often ends.
