@@ -1,17 +1,25 @@
 # Case Studies
 
-Examples connecting operational-readiness doctrine to applied learning design.
+> **Frameworks state what I think. Case studies state what I have done or independently analyzed.**
 
-## Drone as First Responder
+Every page carries an **engagement status** so commissioned work, employed work, independent analysis, and speculative proposals remain distinguishable. See [PROVENANCE.md](../PROVENANCE.md).
 
-A graphic-novel approach to DFR learning built around operational decisions rather than passive content consumption.
+| Case study | Domain | Status |
+|---|---|---|
+| [Autonomous Surface Vessel Readiness](autonomous-surface-vessel-readiness.md) | Autonomous maritime surface platform | Employed engagement, client anonymised |
+| [Aviation English, Kabul and Doha](aviation-english-kabul-doha.md) | Military aviation / high-consequence communication | Employed engagement |
+| [DFR — When Everything Works Except Certainty](dfr-drone-as-first-responder.md) | Public-safety autonomy | Independent analysis |
+| [Subsea Autonomy Curriculum](dive-xl-curriculum.md) | Extra-large AUV / subsea autonomy | Independent analysis / speculative proposal |
 
-[Explore Judgment at the Edge](https://www.edreif.com/2026/08/judgement-at-edge.html)
+## Evidence Locker
 
-## DIVE-XL Maritime Autonomy
+The [Ed Reif Evidence Locker](../evidence-locker/README.md) maps these case studies back to the concepts, tools, claims, and provenance they support.
 
-A curriculum concept applying field-learning architecture to an autonomous undersea platform context.
+## Concepts
 
-[Explore the DIVE-XL curriculum](https://edcreates.s3.us-west-1.amazonaws.com/xman.html)
-
-These case studies are presented as portfolio evidence and learning-design examples; they do not imply endorsement by the organizations referenced.
+[Operational Readiness](../concepts/operational-readiness.md) ·
+[Judgment at the Edge](../concepts/judgment-at-the-edge.md) ·
+[Human Judgment Around Autonomy](../concepts/human-judgment-around-autonomy.md) ·
+[Scenario Is the Product](../concepts/scenario-is-the-product.md) ·
+[Telemetry Over Testing](../concepts/telemetry-over-testing.md) ·
+[Trust Calibration](../concepts/trust-calibration.md)
