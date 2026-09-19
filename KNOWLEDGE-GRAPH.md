@@ -586,6 +586,7 @@ The technology changes. The operating problem does not: somebody still has to re
 - [Evidence Locker](./evidence-locker/README.md)
 - [IP Registry](./evidence-locker/IP-REGISTRY.md)
 - [Claim → Evidence Map](./evidence-locker/CLAIM-EVIDENCE-MAP.md)
+- **[Source Architecture](./SOURCE-ARCHITECTURE.md)** — maps public websites and archives to evidence domains, synthesis, concepts, applications, and provenance.
 - [Provenance](./PROVENANCE.md)
 
 ---
