@@ -596,3 +596,8 @@ The technology changes. The operating problem does not: somebody still has to re
 **Pass Three — Knowledge Graph v1.0**
 
 This graph is designed to evolve. New nodes should be added only when their relationship and provenance can be stated clearly.
+
+
+## Pass Five — Machine-Readable Knowledge Graph
+
+- [knowledge-graph.json](./knowledge-graph.json) — structured nodes, claims, edges, evidence relationships, and provenance rules for machine retrieval and graph traversal.
