@@ -593,3 +593,8 @@ PROVENANCE
    ↓
 UPDATE
 ```
+
+
+## Pass Five — Machine-Readable Knowledge Graph
+
+- [knowledge-graph.json](./knowledge-graph.json) — structured nodes, claims, edges, evidence relationships, and provenance rules for machine retrieval and graph traversal.
