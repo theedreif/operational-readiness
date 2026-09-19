@@ -25,6 +25,15 @@ Six practical tools for operational readiness, judgment under uncertainty, and d
 
 **[Open the Ed Reif Field Toolkit v1.0](./FIELD-TOOLKIT.md)**
 
+## Knowledge Base
+
+The public framework now includes a canonical concept and vocabulary layer for human readers, search engines, and AI retrieval systems.
+
+- **[About Ed Reif](./ABOUT-ED-REIF.md)** — professional identity and authority record
+- **[Concept Library](./concepts/README.md)** — canonical definitions of the core framework
+- **[Field System Glossary](./GLOSSARY.md)** — shared vocabulary and relationships
+- **[Field Toolkit v1.0](./FIELD-TOOLKIT.md)** — six practical field tools
+
 ## The Operating Problem
 
 Technology changes. The operating problem does not:
