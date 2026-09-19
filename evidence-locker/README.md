@@ -8,6 +8,15 @@ Frameworks state the model. Tools operationalize it. Case studies show where the
 
 The Evidence Locker is the public evidence layer of the Ed Reif Field System.\n\n## Pass Two — Public IP & Artifact Evidence\n\n- **[IP Registry](./IP-REGISTRY.md)** — books, series, media, field artifacts, and tools mapped to the field system\n- **[Books, Publications & Media](./books-publications-media.md)** — public source layer for published and recorded work
 
+
+## Public Evidence Corpora
+
+The Evidence Locker also indexes long-form public archives that show how ideas developed across time and field experience.
+
+- **[Decision Science](./corpora/decision-science.md)** — process, probability, asymmetric risk, partial information, state, game theory, feedback, and field tests
+- **[Share Fair Isle](./corpora/share-fair-isle.md)** — remote-island field evidence: adaptation, constraints, weather, time, mobility, and environment
+- **[Rock & Roam Gibraltar](./corpora/gibraltar-field-archive.md)** — portability, geographic optionality, remote work, sustained output, and publishing
+
 ## Evidence Map
 
 | Evidence | Domain | Status | Concepts demonstrated |
