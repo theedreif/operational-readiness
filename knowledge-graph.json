@@ -674,7 +674,7 @@
     {
       "from": "concept:uncertainty-architecture",
       "relation": "CONNECTS_TO",
-      "to": "concept:judgment-at-edge"
+      "to": "concept:judgment-at-the-edge"
     },
     {
       "from": "concept:agency",
