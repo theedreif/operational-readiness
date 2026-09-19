@@ -9,6 +9,8 @@ Frameworks state the model. Tools operationalize it. Case studies show where the
 The Evidence Locker is the public evidence layer of the Ed Reif Field System.\n\n## Pass Two — Public IP & Artifact Evidence\n\n- **[IP Registry](./IP-REGISTRY.md)** — books, series, media, field artifacts, and tools mapped to the field system\n- **[Books, Publications & Media](./books-publications-media.md)** — public source layer for published and recorded work
 
 
+- **[Claim → Evidence Map](./CLAIM-EVIDENCE-MAP.md)** — mechanically traces public claims through concepts, publications, applications, evidence, and provenance.
+
 ## Public Evidence Corpora
 
 - **[Pandemic Years — When the World Retreated](./corpora/pandemic-years.md)** — system interruption, stopped sailing, distorted time, constrained mobility, and adaptation under constraint.
