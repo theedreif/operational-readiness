@@ -10,6 +10,7 @@ The Evidence Locker is the public evidence layer of the Ed Reif Field System.\n\
 
 
 - **[Claim → Evidence Map](./CLAIM-EVIDENCE-MAP.md)** — mechanically traces public claims through concepts, publications, applications, evidence, and provenance.
+- **[Source Architecture](../SOURCE-ARCHITECTURE.md)** — defines the role of each public website, archive, synthesis source, and formal knowledge layer.
 
 ## Public Evidence Corpora
 
