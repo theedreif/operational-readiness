@@ -47,6 +47,31 @@ BOOK → CHAPTER / SECTION → CONCEPT → FRAMEWORK → CLAIM
 | 11 | Living the Questions | uncertainty / inquiry | Living the Questions | A useful life stance can privilege inquiry, process and presence over premature certainty. |
 | E | The Ongoing Journey | continuous practice | Authenticity as Practice | Authenticity is maintained through repeated practice rather than completed once. |
 
+## B1W — The Authenticity Revolution — Self-Coaching Workbook
+
+The workbook converts the memoir's identity argument into repeated reflection, practice and integration. Its 18 chapters therefore function as the first book's applied layer.
+
+| Unit | Chapter / section | Concept | Framework | Mapped claim |
+|---|---|---|---|---|
+| W1 | Image vs. Impact | image management | Image vs Impact | Authenticity asks whether behavior protects an image or creates meaningful impact. |
+| W2 | The Mask of Productivity | productivity / identity | Productivity Mask | Visible output can become a substitute for contact with the self. |
+| W3 | Trading Perfection for Presence | presence | Perfection → Presence | Presence requires tolerating imperfection rather than postponing authenticity until conditions are ideal. |
+| W4 | Owning Your Voice | self-expression | Authentic Voice | Agency increases when the operator can state what they actually believe. |
+| W5 | From Performance to Presence | authenticity | Performance → Presence | Presence reduces the gap between experienced emotion and performed emotion. |
+| W6 | The Courage to Be Disliked | approval / agency | Approval Test | Authentic action may require tolerating disapproval rather than optimizing for it. |
+| W7 | Inherited Scripts and Family Patterns | legacy patterns | Script Audit | Inherited patterns should be examined rather than automatically executed. |
+| W8 | The Energy of Authenticity | somatic feedback | Embodied Authenticity | The body can provide feedback about congruence and misalignment. |
+| W9 | Boundaries as Self-Respect | boundaries | Boundary Practice | A boundary can operationalize self-respect by aligning yes/no decisions with authentic values. |
+| W10 | Daily Authenticity Practices | practice | Daily Authenticity Practice | Authenticity becomes durable through repeated practice rather than aspiration. |
+| W11 | Navigating Relationships Authentically | relationship / truth | Authentic Relationship | Connection and self-expression must be held together rather than treated as opposites. |
+| W12 | Authentic Leadership and Influence | leadership | Authentic Leadership | Leadership can be grounded in actual values rather than a performed leader identity. |
+| W13 | Career and Calling | work / alignment | Career Alignment | Work decisions can be evaluated for alignment with authentic values rather than external approval alone. |
+| W14 | Money and Authenticity | money / values | Money Alignment | Financial choices can either support or distort authentic priorities. |
+| W15 | Creativity and Self-Expression | creative agency | Creative Expression | Creative work provides a channel for authentic self-expression. |
+| W16 | Integrating the Revolution | integration | Authenticity as Default | The aim is to make authenticity a sustainable way of operating rather than an occasional intervention. |
+| W17 | Your Personal Manifesto | values / commitment | Personal Manifesto | Explicitly stating what one stands for turns values into a reference for future decisions. |
+| W18 | The Ongoing Journey | continuous development | Lifelong Practice | Authenticity is maintained through continued practice, recovery from setbacks and revision over time. |
+
 ## B2 — Luck Is Probability Taken Personally
 
 | Unit | Chapter / section | Concept | Framework | Mapped claim |
