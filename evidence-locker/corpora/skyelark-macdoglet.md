@@ -2,13 +2,24 @@
 
 **Corpus type:** Books, memoir, travel writing, canine observation, and lived-family evidence  
 **Authors:** Ed Reif and Sarah Kennedy  
-**Subject:** Skyelark MacDoglet, Scottish Terrier
+**Subject:** Skyelark MacDoglet, Scottish Terrier  
+**Living archive:** https://skyelarkdoglets.blogspot.com/
 
 The Field System has a human side. This corpus records it through Skyelark MacDoglet: a Scottish Terrier born during the pandemic whose life became intertwined with travel, remote-island living, adaptation, attention, companionship, and the way Ed Reif and Sarah Kennedy learned to see place and experience differently.
 
 > **ATTENTION → RELATIONSHIP → ADAPTATION → BELONGING → WONDER**
 
 This is not an operational-readiness case study. It is the lived, relational evidence layer: a record of what sustained attention to another being can reveal about environment, behavior, resilience, place, and ourselves.
+
+## Living archive — Skyelark MacDoglet
+
+**Website:** https://skyelarkdoglets.blogspot.com/
+
+The website is the primary living archive for Skyelark's field notes, travel, Fair Isle and Shetland experiences, Gibraltar years, animal encounters, weather, working-island life, and the evolving human–canine story. It extends the books with dated source material, images, video, audio, and narrative dispatches.
+
+The archive makes the evidence chain stronger:
+
+**LIVED MOMENT → FIELD NOTE → ARCHIVE → BOOK → SERIES → THEMATIC CORPUS**
 
 ## Books
 
