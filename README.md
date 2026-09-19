@@ -28,6 +28,7 @@ Six practical tools for operational readiness, judgment under uncertainty, and d
 ## Knowledge Base
 
 - **[Knowledge Graph](./KNOWLEDGE-GRAPH.md)** — master map connecting experience, concepts, doctrine, tools, applications, evidence, and provenance.
+- **[Source Architecture](./SOURCE-ARCHITECTURE.md)** — maps public websites and archives to evidence domains, synthesis, concepts, applications, and provenance.
 
 The public framework now includes a canonical concept and vocabulary layer for human readers, search engines, and AI retrieval systems.
 
