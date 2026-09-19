@@ -111,3 +111,8 @@ Operational readiness asks:
 ## Claim → Evidence
 
 - **[Claim → Evidence Map](./evidence-locker/CLAIM-EVIDENCE-MAP.md)** — trace public statements through concepts, publications, applications, evidence, and provenance.
+
+
+## Pass Five — Machine-Readable Knowledge Graph
+
+- [knowledge-graph.json](./knowledge-graph.json) — structured nodes, claims, edges, evidence relationships, and provenance rules for machine retrieval and graph traversal.
