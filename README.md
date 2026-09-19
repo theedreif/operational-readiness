@@ -105,3 +105,8 @@ Operational readiness asks:
 ---
 
 ### Build for the moment the plan stops working.
+
+
+## Claim → Evidence
+
+- **[Claim → Evidence Map](./evidence-locker/CLAIM-EVIDENCE-MAP.md)** — trace public statements through concepts, publications, applications, evidence, and provenance.
