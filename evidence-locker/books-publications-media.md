@@ -38,6 +38,25 @@ Supports the decision-science branch: protect the floor, improve the odds, prese
 **Type:** Series  
 **Public evidence:** [Amazon series](https://www.amazon.com/dp/B0HGS4HMM2)
 
+
+## Skyelark / Fair Isle
+
+These publications form the human and relational branch of the evidence architecture. They support claims about attention, companionship, adaptation, belonging, place, and sustained observation. Their provenance is **publication + lived-family evidence + longitudinal public archive**.
+
+### Share Fair Isle: The Geography of Bliss
+**Type:** Book  
+**Evidence record:** [Skyelark MacDoglet corpus](./corpora/skyelark-macdoglet.md)
+
+### Skyelark MacDoglet: Wisdom on Four Legs
+**Type:** Book  
+**Evidence record:** [Skyelark MacDoglet corpus](./corpora/skyelark-macdoglet.md)
+
+### Skyelark MacDoglet: The Heroine's Journey
+**Type:** Book  
+**Evidence record:** [Skyelark MacDoglet corpus](./corpora/skyelark-macdoglet.md)
+
+Skyelark is treated as a living subject in the archive, not merely as a metaphor for professional doctrine.
+
 ## Video Evidence
 
 ### Digital Storytelling
