@@ -11,6 +11,8 @@ The Evidence Locker is the public evidence layer of the Ed Reif Field System.\n\
 
 ## Public Evidence Corpora
 
+- **[Pandemic Years — When the World Retreated](./corpora/pandemic-years.md)** — system interruption, stopped sailing, distorted time, constrained mobility, and adaptation under constraint.
+
 The Evidence Locker also indexes long-form public archives that show how ideas developed across time and field experience.
 
 - **[Decision Science](./corpora/decision-science.md)** — process, probability, asymmetric risk, partial information, state, game theory, feedback, and field tests
