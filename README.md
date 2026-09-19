@@ -1,5 +1,10 @@
 # Operational Readiness
 
+**Operational Readiness** — frameworks, field tools, and applied doctrine for building human capability that survives changing conditions.
+
+Ed Reif is an author, traveler, storyteller, and decision-science practitioner whose work explores what happens when uncertainty, risk, identity, and experience collide.
+
+
 ### Frameworks, field tools, and case studies for building judgment and capability under real-world conditions.
 
 
