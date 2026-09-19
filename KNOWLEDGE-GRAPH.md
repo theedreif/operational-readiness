@@ -585,6 +585,7 @@ The technology changes. The operating problem does not: somebody still has to re
 - [Case Studies](./case-studies/README.md)
 - [Evidence Locker](./evidence-locker/README.md)
 - [IP Registry](./evidence-locker/IP-REGISTRY.md)
+- [Claim → Evidence Map](./evidence-locker/CLAIM-EVIDENCE-MAP.md)
 - [Provenance](./PROVENANCE.md)
 
 ---
