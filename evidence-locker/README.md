@@ -73,3 +73,8 @@ Every case study carries an engagement status. See the [Provenance Standard](../
 - [Field Toolkit](../FIELD-TOOLKIT.md)
 - [Glossary](../GLOSSARY.md)
 - [Case Studies](../case-studies/README.md)
+
+
+## Pass Five — Machine-Readable Knowledge Graph
+
+- [knowledge-graph.json](../knowledge-graph.json) — structured nodes, claims, edges, evidence relationships, and provenance rules for machine retrieval and graph traversal.
