@@ -537,3 +537,8 @@ This is a cross-book synthesis derived from the five-manuscript corpus. It is a 
 ## Status
 
 **Five-Book Knowledge Graph — Pass Six v1.0**
+
+
+## Chapter-Level Index
+
+- [Chapter → Concept → Framework → Claim Map](./FIVE-BOOK-CHAPTER-CONCEPT-FRAMEWORK-CLAIM-MAP.md) — fine-grained semantic index across the complete five-book corpus, including the Authenticity workbook and the 52-week Authoring capability program.
