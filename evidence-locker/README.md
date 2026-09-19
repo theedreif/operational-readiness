@@ -87,3 +87,8 @@ Every case study carries an engagement status. See the [Provenance Standard](../
 ## Pass Five — Machine-Readable Knowledge Graph
 
 - [knowledge-graph.json](../knowledge-graph.json) — structured nodes, claims, edges, evidence relationships, and provenance rules for machine retrieval and graph traversal.
+
+
+## Chapter-Level Index
+
+- [Chapter → Concept → Framework → Claim Map](./FIVE-BOOK-CHAPTER-CONCEPT-FRAMEWORK-CLAIM-MAP.md) — fine-grained semantic index across the complete five-book corpus, including the Authenticity workbook and the 52-week Authoring capability program.
