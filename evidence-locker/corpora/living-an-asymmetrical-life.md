@@ -165,6 +165,10 @@ See the [Provenance Standard](../../PROVENANCE.md) and [Claim → Evidence Map](
 
 ---
 
+## Five-Book Manuscript Graph
+
+The cross-domain lived-experience corpus is complemented by the manuscript-grounded [Five-Book Knowledge Graph](../FIVE-BOOK-KNOWLEDGE-GRAPH.md), which maps the series as **SELF → DECISION → POSITION → UNCERTAINTY → AGENCY**.
+
 ## Status
 
 **Cross-Domain Corpus v1.0 — Audit Remediation Pass**
