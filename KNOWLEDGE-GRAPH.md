@@ -55,6 +55,7 @@ ED REIF
 │
 └── PORTABLE LIFE
     ├── maritime life → portability
+    ├── pandemic years → adaptation under constraint
     ├── Fair Isle → adaptation
     ├── Gibraltar → geographic optionality
     ├── poker → probability and asymmetry
@@ -290,6 +291,11 @@ SKYELARK      → ATTENTION & COMPANIONSHIP
 
 Longitudinal evidence of travel, work, threshold-crossing, consequence, reinvention, and the portable life.
 
+### Pandemic Years
+- [When the World Retreated](./evidence-locker/corpora/pandemic-years.md)
+
+Evidence of system interruption, stopped maritime movement, temporal distortion, constrained mobility, and the transition from imposed isolation toward intentional remoteness.
+
 ### Fair Isle
 - [Share Fair Isle](./evidence-locker/corpora/share-fair-isle.md)
 
@@ -383,6 +389,7 @@ The public archives are longitudinal evidence, not a collection of isolated IP c
 | Corpus | Primary signal | Relationship |
 |---|---|---|
 | [Decision Science](./evidence-locker/corpora/decision-science.md) | Probability, process, asymmetry | Intellectual development |
+| [Pandemic Years](./evidence-locker/corpora/pandemic-years.md) | Interruption, stillness, constrained mobility | Adaptation under constraint |
 | [Share Fair Isle](./evidence-locker/corpora/share-fair-isle.md) | Adaptation, constraint, place | Remote-field experience |
 | [Rock & Roam Gibraltar](./evidence-locker/corpora/gibraltar-field-archive.md) | Mobility, base, output | Geographic optionality |
 | [The World Was Our Port of Call](./evidence-locker/corpora/maritime-portable-life.md) | Maritime life, reinvention | Portable-life evidence |
@@ -438,6 +445,7 @@ High-Consequence Communication
 ### “Ed Reif’s work comes from lived field experience.”
 ```text
 Maritime archive
+ + pandemic years
  + Fair Isle
  + Gibraltar
  + poker
