@@ -17,6 +17,14 @@ Knowing a procedure is not the same as recognizing when conditions have changed.
 
 This repository explores how people prepare to **notice, decide, act, and adapt when reality departs from the plan**.
 
+## Field Toolkit v1.0
+
+Six practical tools for operational readiness, judgment under uncertainty, and decision science.
+
+> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+
+**[Open the Ed Reif Field Toolkit v1.0](./FIELD-TOOLKIT.md)**
+
 ## The Operating Problem
 
 Technology changes. The operating problem does not:
