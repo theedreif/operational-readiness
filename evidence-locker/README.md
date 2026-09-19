@@ -17,6 +17,7 @@ The Evidence Locker also indexes long-form public archives that show how ideas d
 - **[Share Fair Isle](./corpora/share-fair-isle.md)** — remote-island field evidence: adaptation, constraints, weather, time, mobility, and environment
 - **[Rock & Roam Gibraltar](./corpora/gibraltar-field-archive.md)** — portability, geographic optionality, remote work, sustained output, and publishing
 - **[The World Was Our Port of Call](./corpora/maritime-portable-life.md)** — maritime life, global mobility, reinvention, uncertainty, and the portable-life evidence trail
+- **[Skyelark MacDoglet](./corpora/skyelark-macdoglet.md)** — the human and relational layer: attention, companionship, adaptation, belonging, and wonder
 
 ## Evidence Map
 
