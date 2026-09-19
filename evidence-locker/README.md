@@ -31,6 +31,8 @@ The Evidence Locker also indexes long-form public archives that show how ideas d
 
 - **[Living an Asymmetrical Life](./corpora/living-an-asymmetrical-life.md)** — cross-domain corpus connecting maritime life, pandemic interruption, Fair Isle, decision science, Gibraltar, Skyelark, and separately provenance-labeled professional field evidence.
 
+- **[The Asymmetrical Life — Five-Book Knowledge Graph](./FIVE-BOOK-KNOWLEDGE-GRAPH.md)** — manuscript-grounded map of SELF → DECISION → POSITION → UNCERTAINTY → AGENCY across the five-book series.
+
 ## Evidence Map
 
 | Evidence | Domain | Status | Concepts demonstrated |
