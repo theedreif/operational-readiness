@@ -244,6 +244,13 @@
       "name": "The Pandemic Years — When the World Retreated",
       "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/pandemic-years.md",
       "provenance": "lived-experience archive + field notes + retrospective synthesis"
+    },
+    {
+      "id": "corpus:living-asymmetrical-life",
+      "type": "Dataset",
+      "name": "Living an Asymmetrical Life — Cross-Domain Evidence Corpus",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/living-an-asymmetrical-life.md",
+      "provenance": "lived-experience archive + publication + public field evidence"
     }
   ],
   "claims": [
@@ -490,6 +497,36 @@
       "from": "corpus:gibraltar",
       "relation": "EVIDENCES",
       "to": "concept:portable-life"
+    },
+    {
+      "from": "corpus:maritime",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:living-asymmetrical-life"
+    },
+    {
+      "from": "corpus:pandemic-years",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:living-asymmetrical-life"
+    },
+    {
+      "from": "corpus:fair-isle",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:living-asymmetrical-life"
+    },
+    {
+      "from": "corpus:decision-science",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:living-asymmetrical-life"
+    },
+    {
+      "from": "corpus:gibraltar",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:living-asymmetrical-life"
+    },
+    {
+      "from": "corpus:skyelark",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:living-asymmetrical-life"
     }
   ],
   "provenanceRules": [
