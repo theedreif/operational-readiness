@@ -6,7 +6,7 @@ Frameworks state the model. Tools operationalize it. Case studies show where the
 
 > **PERSON → CONCEPT → TOOL → APPLICATION → EVIDENCE → PROVENANCE**
 
-The Evidence Locker is the public evidence layer of the Ed Reif Field System.
+The Evidence Locker is the public evidence layer of the Ed Reif Field System.\n\n## Pass Two — Public IP & Artifact Evidence\n\n- **[IP Registry](./IP-REGISTRY.md)** — books, series, media, field artifacts, and tools mapped to the field system\n- **[Books, Publications & Media](./books-publications-media.md)** — public source layer for published and recorded work
 
 ## Evidence Map
 
