@@ -601,3 +601,8 @@ This graph is designed to evolve. New nodes should be added only when their rela
 ## Pass Five — Machine-Readable Knowledge Graph
 
 - [knowledge-graph.json](./knowledge-graph.json) — structured nodes, claims, edges, evidence relationships, and provenance rules for machine retrieval and graph traversal.
+
+
+## Cross-Domain Synthesis Corpus
+
+- [Living an Asymmetrical Life](./evidence-locker/corpora/living-an-asymmetrical-life.md) — connects maritime life, pandemic interruption, Fair Isle, decision science, Gibraltar, Skyelark, and separately provenance-labeled professional field environments without collapsing their evidence classes.
