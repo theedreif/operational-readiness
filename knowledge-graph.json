@@ -251,6 +251,74 @@
       "name": "Living an Asymmetrical Life — Cross-Domain Evidence Corpus",
       "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/living-an-asymmetrical-life.md",
       "provenance": "lived-experience archive + publication + public field evidence"
+    },
+    {
+      "id": "series:asymmetrical-life",
+      "type": "CreativeWorkSeries",
+      "name": "The Asymmetrical Life — Five-Book Series",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/FIVE-BOOK-KNOWLEDGE-GRAPH.md",
+      "provenance": "publication + authored synthesis"
+    },
+    {
+      "id": "book:authenticity-revolution",
+      "type": "Book",
+      "name": "The Authenticity Revolution: Trading Image for Impact",
+      "provenance": "publication"
+    },
+    {
+      "id": "book:luck-probability",
+      "type": "Book",
+      "name": "Luck Is Probability Taken Personally",
+      "provenance": "publication"
+    },
+    {
+      "id": "book:architecture-uncertainty",
+      "type": "Book",
+      "name": "The Architecture of Uncertainty",
+      "provenance": "publication"
+    },
+    {
+      "id": "book:authoring-future",
+      "type": "Book",
+      "name": "Authoring Your Future: Shift To Agency",
+      "provenance": "publication"
+    },
+    {
+      "id": "concept:self-operator",
+      "type": "DefinedTerm",
+      "name": "Self / Operator"
+    },
+    {
+      "id": "concept:decision-quality",
+      "type": "DefinedTerm",
+      "name": "Decision Quality"
+    },
+    {
+      "id": "concept:position-design",
+      "type": "DefinedTerm",
+      "name": "Position Design"
+    },
+    {
+      "id": "concept:uncertainty-architecture",
+      "type": "DefinedTerm",
+      "name": "Uncertainty Architecture"
+    },
+    {
+      "id": "concept:agency",
+      "type": "DefinedTerm",
+      "name": "Agency"
+    },
+    {
+      "id": "concept:golden-thread",
+      "type": "DefinedTerm",
+      "name": "Golden Thread",
+      "model": "COUNT THE POSSIBILITIES → PRICE THE CONSEQUENCES → SURVIVE THE VARIANCE → UPDATE THE MODEL"
+    },
+    {
+      "id": "tool:decision-ledger",
+      "type": "CreativeWork",
+      "name": "Decision Ledger",
+      "model": "FLOOR → BET → EVIDENCE → NEXT BET"
     }
   ],
   "claims": [
@@ -526,6 +594,96 @@
     {
       "from": "corpus:skyelark",
       "relation": "CONTRIBUTES_TO",
+      "to": "corpus:living-asymmetrical-life"
+    },
+    {
+      "from": "book:authenticity-revolution",
+      "relation": "PART_OF",
+      "to": "series:asymmetrical-life"
+    },
+    {
+      "from": "book:luck-probability",
+      "relation": "PART_OF",
+      "to": "series:asymmetrical-life"
+    },
+    {
+      "from": "artifact:asymmetrical-life",
+      "relation": "PART_OF",
+      "to": "series:asymmetrical-life"
+    },
+    {
+      "from": "book:architecture-uncertainty",
+      "relation": "PART_OF",
+      "to": "series:asymmetrical-life"
+    },
+    {
+      "from": "book:authoring-future",
+      "relation": "PART_OF",
+      "to": "series:asymmetrical-life"
+    },
+    {
+      "from": "book:authenticity-revolution",
+      "relation": "SYNTHESIZES",
+      "to": "concept:self-operator"
+    },
+    {
+      "from": "book:luck-probability",
+      "relation": "SYNTHESIZES",
+      "to": "concept:decision-quality"
+    },
+    {
+      "from": "artifact:asymmetrical-life",
+      "relation": "SYNTHESIZES",
+      "to": "concept:position-design"
+    },
+    {
+      "from": "book:architecture-uncertainty",
+      "relation": "SYNTHESIZES",
+      "to": "concept:uncertainty-architecture"
+    },
+    {
+      "from": "book:authoring-future",
+      "relation": "SYNTHESIZES",
+      "to": "concept:agency"
+    },
+    {
+      "from": "book:luck-probability",
+      "relation": "DEVELOPS",
+      "to": "concept:golden-thread"
+    },
+    {
+      "from": "artifact:asymmetrical-life",
+      "relation": "USES",
+      "to": "concept:golden-thread"
+    },
+    {
+      "from": "concept:golden-thread",
+      "relation": "OPERATIONALIZED_BY",
+      "to": "tool:decision-ledger"
+    },
+    {
+      "from": "concept:decision-quality",
+      "relation": "CONNECTS_TO",
+      "to": "concept:asymmetrical-decision-making"
+    },
+    {
+      "from": "concept:position-design",
+      "relation": "CONNECTS_TO",
+      "to": "concept:asymmetrical-decision-making"
+    },
+    {
+      "from": "concept:uncertainty-architecture",
+      "relation": "CONNECTS_TO",
+      "to": "concept:judgment-at-edge"
+    },
+    {
+      "from": "concept:agency",
+      "relation": "CONNECTS_TO",
+      "to": "concept:operational-readiness"
+    },
+    {
+      "from": "series:asymmetrical-life",
+      "relation": "SYNTHESIZED_BY",
       "to": "corpus:living-asymmetrical-life"
     }
   ],
