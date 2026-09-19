@@ -611,3 +611,8 @@ This graph is designed to evolve. New nodes should be added only when their rela
 ## Five-Book Series Graph
 
 - [The Asymmetrical Life — Five-Book Knowledge Graph](./evidence-locker/FIVE-BOOK-KNOWLEDGE-GRAPH.md) — manuscript-grounded series architecture: **SELF → DECISION → POSITION → UNCERTAINTY → AGENCY**, connected to Operational Readiness through capability under uncertainty.
+
+
+## Chapter-Level Index
+
+- [Chapter → Concept → Framework → Claim Map](./evidence-locker/FIVE-BOOK-CHAPTER-CONCEPT-FRAMEWORK-CLAIM-MAP.md) — fine-grained semantic index across the complete five-book corpus, including the Authenticity workbook and the 52-week Authoring capability program.
