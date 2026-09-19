@@ -13,3 +13,9 @@ The design constraint is simple:
 **FIND → UNDERSTAND → ACT**
 
 A point-of-need design test: can a trained operator locate, comprehend, and use critical information within 45 seconds under realistic field conditions?
+
+### [Field Tool 003 — Scenario Design Canvas](./scenario-design-canvas.md)
+
+**MISSION → SIGNAL → FRICTION → LIMIT → DECISION → CONSEQUENCE → EVIDENCE**
+
+A practical canvas for converting content into realistic decision environments where judgment can be practiced, observed, and debriefed.
