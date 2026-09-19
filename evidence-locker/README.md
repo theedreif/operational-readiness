@@ -16,6 +16,7 @@ The Evidence Locker also indexes long-form public archives that show how ideas d
 - **[Decision Science](./corpora/decision-science.md)** — process, probability, asymmetric risk, partial information, state, game theory, feedback, and field tests
 - **[Share Fair Isle](./corpora/share-fair-isle.md)** — remote-island field evidence: adaptation, constraints, weather, time, mobility, and environment
 - **[Rock & Roam Gibraltar](./corpora/gibraltar-field-archive.md)** — portability, geographic optionality, remote work, sustained output, and publishing
+- **[The World Was Our Port of Call](./corpora/maritime-portable-life.md)** — maritime life, global mobility, reinvention, uncertainty, and the portable-life evidence trail
 
 ## Evidence Map
 
