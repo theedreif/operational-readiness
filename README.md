@@ -32,7 +32,7 @@ The public framework now includes a canonical concept and vocabulary layer for h
 - **[About Ed Reif](./ABOUT-ED-REIF.md)** — professional identity and authority record
 - **[Concept Library](./concepts/README.md)** — canonical definitions of the core framework
 - **[Field System Glossary](./GLOSSARY.md)** — shared vocabulary and relationships
-- **[Field Toolkit v1.0](./FIELD-TOOLKIT.md)** — six practical field tools
+- **[Field Toolkit v1.0](./FIELD-TOOLKIT.md)** — six practical field tools\n- **[Evidence Locker](./evidence-locker/README.md)** — claims mapped to case studies, evidence, and provenance
 
 ## The Operating Problem
 
@@ -81,7 +81,7 @@ A curriculum concept for Anduril Industries' DIVE-XL autonomous undersea platfor
 - **doctrine/** — principles behind operational-readiness design
 - **autonomous-systems/** — drones, DFR, maritime autonomy, and human-machine teaming
 - **frameworks/** — reusable decision and learning models
-- **case-studies/** — examples of doctrine applied to project contexts
+- **case-studies/** — applied examples with explicit engagement status\n- **evidence-locker/** — claim → evidence → status → source
 - **field-tools/** — compact tools intended for use close to performance
 
 ## From Training to Readiness
