@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this repository, please cite it as below."
+title: "Operational Readiness"
+type: software
+authors:
+  - family-names: "Reif"
+    given-names: "Ed"
+    alias: "theedreif"
+url: "https://github.com/theedreif/operational-readiness"
+repository-code: "https://github.com/theedreif/operational-readiness"
+abstract: "Operational Readiness — frameworks, field tools, and applied doctrine for building human capability that survives changing conditions."
+keywords:
+  - operational-readiness
+  - decision-science
+  - instructional-design
+  - human-performance
+  - judgment-under-uncertainty
+  - autonomous-systems
+  - field-learning
+  - ai-skills
