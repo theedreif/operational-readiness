@@ -1,0 +1,502 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "ed": "https://www.edreif.com/#",
+    "repo": "https://github.com/theedreif/operational-readiness/blob/main/",
+    "relation": "https://www.edreif.com/relations/"
+  },
+  "@id": "repo:knowledge-graph.json",
+  "@type": "Dataset",
+  "name": "Ed Reif Field System Knowledge Graph",
+  "version": "1.0",
+  "description": "Pass Five machine-readable graph connecting identity, claims, concepts, artifacts, applications, evidence and provenance.",
+  "license": "Repository terms apply.",
+  "governingChain": [
+    "IDENTITY",
+    "CLAIM",
+    "CONCEPT",
+    "ARTIFACT",
+    "APPLICATION",
+    "EVIDENCE",
+    "PROVENANCE",
+    "UPDATE"
+  ],
+  "architecture": {
+    "knowledgeGraph": "https://github.com/theedreif/operational-readiness/blob/main/KNOWLEDGE-GRAPH.md",
+    "sourceArchitecture": "https://github.com/theedreif/operational-readiness/blob/main/SOURCE-ARCHITECTURE.md",
+    "claimEvidenceMap": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/CLAIM-EVIDENCE-MAP.md",
+    "provenance": "https://github.com/theedreif/operational-readiness/blob/main/PROVENANCE.md",
+    "evidenceLocker": "https://github.com/theedreif/operational-readiness/tree/main/evidence-locker"
+  },
+  "nodes": [
+    {
+      "id": "person:ed-reif",
+      "type": "Person",
+      "name": "Ed Reif",
+      "url": "https://www.edreif.com/",
+      "roles": [
+        "Author",
+        "Field Learning Architect",
+        "Decision-Science Practitioner"
+      ]
+    },
+    {
+      "id": "concept:operational-readiness",
+      "type": "DefinedTerm",
+      "name": "Operational Readiness",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/operational-readiness.md"
+    },
+    {
+      "id": "concept:judgment-at-the-edge",
+      "type": "DefinedTerm",
+      "name": "Judgment at the Edge",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/judgment-at-the-edge.md"
+    },
+    {
+      "id": "concept:45-second-rule",
+      "type": "DefinedTerm",
+      "name": "45-Second Rule",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/45-second-rule.md",
+      "boundary": "A deliberately demanding point-of-need learning-design heuristic, not a universal scientific threshold."
+    },
+    {
+      "id": "concept:scenario-is-the-product",
+      "type": "DefinedTerm",
+      "name": "Scenario Is the Product",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/scenario-is-the-product.md"
+    },
+    {
+      "id": "concept:telemetry-over-testing",
+      "type": "DefinedTerm",
+      "name": "Telemetry Over Testing",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/telemetry-over-testing.md"
+    },
+    {
+      "id": "concept:trust-calibration",
+      "type": "DefinedTerm",
+      "name": "Trust Calibration",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/trust-calibration.md"
+    },
+    {
+      "id": "concept:asymmetrical-decision-making",
+      "type": "DefinedTerm",
+      "name": "Asymmetrical Decision Making",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/asymmetrical-decision-making.md"
+    },
+    {
+      "id": "concept:human-judgment-around-autonomy",
+      "type": "DefinedTerm",
+      "name": "Human Judgment Around Autonomous Systems",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/human-judgment-around-autonomy.md"
+    },
+    {
+      "id": "concept:high-consequence-communication",
+      "type": "DefinedTerm",
+      "name": "High-Consequence Communication",
+      "model": "SAID → HEARD → UNDERSTOOD → DONE"
+    },
+    {
+      "id": "concept:portable-life",
+      "type": "DefinedTerm",
+      "name": "Portable Life"
+    },
+    {
+      "id": "concept:adaptation-under-constraint",
+      "type": "DefinedTerm",
+      "name": "Adaptation Under Constraint"
+    },
+    {
+      "id": "artifact:this-is-not-training",
+      "type": "Book",
+      "name": "THIS IS NOT TRAINING",
+      "url": "https://www.edreif.com/2026/08/tint-this-is-not-training.html"
+    },
+    {
+      "id": "artifact:asymmetrical-life",
+      "type": "Book",
+      "name": "The Asymmetrical Life: Heads I Win A Lot. Tails I Lose A Little.",
+      "url": "https://www.amazon.com/dp/B0HGS4HMM2"
+    },
+    {
+      "id": "artifact:drones",
+      "type": "Book",
+      "name": "What to Expect When You're Expecting Drones"
+    },
+    {
+      "id": "artifact:we-speak-english",
+      "type": "Book",
+      "name": "We Speak English or People Die"
+    },
+    {
+      "id": "artifact:field-toolkit",
+      "type": "CreativeWork",
+      "name": "Ed Reif Field Toolkit",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/FIELD-TOOLKIT.md"
+    },
+    {
+      "id": "application:aviation-english",
+      "type": "CaseStudy",
+      "name": "Aviation English — Kabul and Doha",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/case-studies/aviation-english-kabul-doha.md",
+      "provenance": "employed engagement"
+    },
+    {
+      "id": "application:dfr",
+      "type": "CaseStudy",
+      "name": "DFR — Drone as First Responder",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/case-studies/dfr-drone-as-first-responder.md",
+      "provenance": "independent analysis"
+    },
+    {
+      "id": "application:dive-xl",
+      "type": "CaseStudy",
+      "name": "DIVE-XL Curriculum",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/case-studies/dive-xl-curriculum.md",
+      "provenance": "independent/speculative proposal"
+    },
+    {
+      "id": "application:asv",
+      "type": "CaseStudy",
+      "name": "Autonomous Surface Vessel Readiness",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/case-studies/autonomous-surface-vessel-readiness.md",
+      "provenance": "employed/client engagement; client anonymised"
+    },
+    {
+      "id": "source:edreif",
+      "type": "WebSite",
+      "name": "EdReif.com",
+      "url": "https://www.edreif.com/",
+      "role": "canonical identity and synthesis hub"
+    },
+    {
+      "id": "source:decision-science",
+      "type": "WebSite",
+      "name": "Decision Science",
+      "url": "https://www.thereisnolimitlikenolimit.com/",
+      "role": "specialist evidence domain"
+    },
+    {
+      "id": "source:deja-blue",
+      "type": "WebSite",
+      "name": "Deja Blue",
+      "url": "https://crusiewithed.blogspot.com/",
+      "role": "specialist maritime and global-mobility evidence domain"
+    },
+    {
+      "id": "source:share-fair-isle",
+      "type": "WebSite",
+      "name": "Share Fair Isle",
+      "url": "https://www.sharefairisle.com/",
+      "role": "specialist adaptation, place and constraint evidence domain"
+    },
+    {
+      "id": "source:rock-and-roam",
+      "type": "WebSite",
+      "name": "Rock & Roam",
+      "url": "https://rockandroamingib.blogspot.com/",
+      "role": "specialist geographic-optionality evidence domain"
+    },
+    {
+      "id": "source:skyelark",
+      "type": "WebSite",
+      "name": "Skyelark MacDoglet",
+      "url": "https://skyelarkdoglets.blogspot.com/",
+      "role": "human and relational evidence domain"
+    },
+    {
+      "id": "corpus:decision-science",
+      "type": "Dataset",
+      "name": "Decision Science Evidence Corpus",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/decision-science.md",
+      "provenance": "public longitudinal evidence + lived decision environment"
+    },
+    {
+      "id": "corpus:maritime",
+      "type": "Dataset",
+      "name": "Maritime & Portable-Life Evidence Corpus",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/maritime-portable-life.md",
+      "provenance": "lived-experience archive"
+    },
+    {
+      "id": "corpus:fair-isle",
+      "type": "Dataset",
+      "name": "Share Fair Isle Evidence Corpus",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/share-fair-isle.md",
+      "provenance": "lived-experience archive"
+    },
+    {
+      "id": "corpus:gibraltar",
+      "type": "Dataset",
+      "name": "Gibraltar Field Archive",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/gibraltar-field-archive.md",
+      "provenance": "lived-experience archive"
+    },
+    {
+      "id": "corpus:skyelark",
+      "type": "Dataset",
+      "name": "Skyelark MacDoglet Evidence Corpus",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/skyelark-macdoglet.md",
+      "provenance": "lived-family evidence + publication + longitudinal public archive"
+    },
+    {
+      "id": "corpus:pandemic-years",
+      "type": "Dataset",
+      "name": "The Pandemic Years — When the World Retreated",
+      "url": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/corpora/pandemic-years.md",
+      "provenance": "lived-experience archive + field notes + retrospective synthesis"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "Ed Reif develops operational-readiness approaches for building capability that can survive changing field conditions.",
+      "supportedBy": [
+        "concept:operational-readiness",
+        "artifact:this-is-not-training",
+        "artifact:field-toolkit",
+        "application:aviation-english",
+        "application:asv",
+        "application:dfr",
+        "application:dive-xl"
+      ]
+    },
+    {
+      "id": "C02",
+      "claim": "Ed Reif develops frameworks for human judgment when reality departs from the plan.",
+      "supportedBy": [
+        "concept:judgment-at-the-edge",
+        "application:dfr",
+        "application:asv",
+        "application:dive-xl"
+      ]
+    },
+    {
+      "id": "C03",
+      "claim": "Ed Reif works on human judgment around autonomous systems.",
+      "supportedBy": [
+        "concept:human-judgment-around-autonomy",
+        "concept:trust-calibration",
+        "artifact:drones",
+        "artifact:this-is-not-training",
+        "application:dfr",
+        "application:asv",
+        "application:dive-xl"
+      ]
+    },
+    {
+      "id": "C04",
+      "claim": "Ed Reif applies decision-science ideas to uncertainty, probability, asymmetric exposure, process and feedback.",
+      "supportedBy": [
+        "concept:asymmetrical-decision-making",
+        "artifact:asymmetrical-life",
+        "corpus:decision-science"
+      ]
+    },
+    {
+      "id": "C05",
+      "claim": "Ed Reif has designed and delivered learning in high-consequence communication environments.",
+      "supportedBy": [
+        "concept:high-consequence-communication",
+        "artifact:we-speak-english",
+        "application:aviation-english"
+      ]
+    },
+    {
+      "id": "C06",
+      "claim": "Ed Reif treats the scenario—not course completion—as the primary product of field learning.",
+      "supportedBy": [
+        "concept:scenario-is-the-product",
+        "concept:telemetry-over-testing",
+        "artifact:this-is-not-training"
+      ]
+    },
+    {
+      "id": "C07",
+      "claim": "Ed Reif uses the 45-Second Rule as a deliberately demanding point-of-need learning-design heuristic.",
+      "supportedBy": [
+        "concept:45-second-rule",
+        "artifact:field-toolkit"
+      ]
+    },
+    {
+      "id": "C08",
+      "claim": "Ed Reif's maritime archive documents a long-running portable-life experiment in movement, work, adaptation and reinvention.",
+      "supportedBy": [
+        "concept:portable-life",
+        "source:deja-blue",
+        "corpus:maritime"
+      ]
+    },
+    {
+      "id": "C09",
+      "claim": "Ed Reif's pandemic archive documents adaptation when a life organized around movement encountered global interruption and constrained mobility.",
+      "supportedBy": [
+        "concept:adaptation-under-constraint",
+        "corpus:pandemic-years",
+        "source:deja-blue",
+        "source:share-fair-isle",
+        "source:edreif"
+      ]
+    },
+    {
+      "id": "C10",
+      "claim": "Ed Reif's Fair Isle archive documents adaptation to remoteness, weather, community, constraint and a different experience of time.",
+      "supportedBy": [
+        "source:share-fair-isle",
+        "corpus:fair-isle",
+        "concept:adaptation-under-constraint"
+      ]
+    },
+    {
+      "id": "C11",
+      "claim": "Ed Reif's Gibraltar archive documents the use of a stable home base to support mobility, remote work, creative output and return.",
+      "supportedBy": [
+        "source:rock-and-roam",
+        "corpus:gibraltar",
+        "concept:portable-life"
+      ]
+    },
+    {
+      "id": "C12",
+      "claim": "Ed Reif and Sarah Kennedy's Skyelark archive explores attention, companionship, adaptation, belonging and wonder through sustained observation of a Scottish Terrier across changing environments.",
+      "supportedBy": [
+        "source:skyelark",
+        "corpus:skyelark"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "person:ed-reif",
+      "relation": "DEVELOPS",
+      "to": "concept:operational-readiness"
+    },
+    {
+      "from": "person:ed-reif",
+      "relation": "DEVELOPS",
+      "to": "concept:judgment-at-the-edge"
+    },
+    {
+      "from": "person:ed-reif",
+      "relation": "DEVELOPS",
+      "to": "concept:asymmetrical-decision-making"
+    },
+    {
+      "from": "person:ed-reif",
+      "relation": "WORKS_ON",
+      "to": "concept:human-judgment-around-autonomy"
+    },
+    {
+      "from": "artifact:this-is-not-training",
+      "relation": "SYNTHESIZES",
+      "to": "concept:operational-readiness"
+    },
+    {
+      "from": "artifact:asymmetrical-life",
+      "relation": "SYNTHESIZES",
+      "to": "concept:asymmetrical-decision-making"
+    },
+    {
+      "from": "artifact:we-speak-english",
+      "relation": "SYNTHESIZES",
+      "to": "concept:high-consequence-communication"
+    },
+    {
+      "from": "artifact:field-toolkit",
+      "relation": "OPERATIONALIZES",
+      "to": "concept:operational-readiness"
+    },
+    {
+      "from": "application:dfr",
+      "relation": "APPLIES",
+      "to": "concept:judgment-at-the-edge"
+    },
+    {
+      "from": "application:dfr",
+      "relation": "APPLIES",
+      "to": "concept:human-judgment-around-autonomy"
+    },
+    {
+      "from": "application:asv",
+      "relation": "APPLIES",
+      "to": "concept:operational-readiness"
+    },
+    {
+      "from": "application:asv",
+      "relation": "APPLIES",
+      "to": "concept:human-judgment-around-autonomy"
+    },
+    {
+      "from": "application:dive-xl",
+      "relation": "EXPLORES",
+      "to": "concept:human-judgment-around-autonomy"
+    },
+    {
+      "from": "application:aviation-english",
+      "relation": "APPLIES",
+      "to": "concept:high-consequence-communication"
+    },
+    {
+      "from": "source:decision-science",
+      "relation": "EVIDENCES",
+      "to": "corpus:decision-science"
+    },
+    {
+      "from": "source:deja-blue",
+      "relation": "EVIDENCES",
+      "to": "corpus:maritime"
+    },
+    {
+      "from": "source:share-fair-isle",
+      "relation": "EVIDENCES",
+      "to": "corpus:fair-isle"
+    },
+    {
+      "from": "source:rock-and-roam",
+      "relation": "EVIDENCES",
+      "to": "corpus:gibraltar"
+    },
+    {
+      "from": "source:skyelark",
+      "relation": "EVIDENCES",
+      "to": "corpus:skyelark"
+    },
+    {
+      "from": "source:deja-blue",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:pandemic-years"
+    },
+    {
+      "from": "source:share-fair-isle",
+      "relation": "CONTRIBUTES_TO",
+      "to": "corpus:pandemic-years"
+    },
+    {
+      "from": "source:edreif",
+      "relation": "SYNTHESIZES",
+      "to": "corpus:pandemic-years"
+    },
+    {
+      "from": "corpus:pandemic-years",
+      "relation": "EVIDENCES",
+      "to": "concept:adaptation-under-constraint"
+    },
+    {
+      "from": "corpus:maritime",
+      "relation": "EVIDENCES",
+      "to": "concept:portable-life"
+    },
+    {
+      "from": "corpus:gibraltar",
+      "relation": "EVIDENCES",
+      "to": "concept:portable-life"
+    }
+  ],
+  "provenanceRules": [
+    "Evidence establishes a relationship without implying unsupported employment, endorsement, authorship, ownership or exclusivity.",
+    "Independent analysis is not client engagement.",
+    "Speculative proposals are not contracts or endorsements.",
+    "Lived-experience evidence supports claims about documented experience and synthesis, not ownership of external events.",
+    "The 45-Second Rule is an Ed Reif design heuristic, not a universal scientific threshold."
+  ]
+}
