@@ -16,6 +16,9 @@ This registry maps published books, series, media, learning artifacts, and field
 | **The Learner Experience Designer Groove** | Video | Learner experience design · instructional design | [YouTube](https://youtu.be/vN25aeq7qcU) |
 | **Warrior Training Alliance / PEO STRI field work** | Field evidence | Military training · operational learning · high-consequence communication | [EdReif.com field archive](https://www.edreif.com/2009/01/the-majik-kingdom-not-disney.html) |
 | **Active War Zone: Free Helicopter Rides** | Video / field evidence | Risk perception · judgment under uncertainty · lived operational context | [YouTube](https://youtu.be/R7BWZwZDm84) |
+| **Share Fair Isle: The Geography of Bliss** | Book | Fair Isle · place · adaptation · attention · companionship | [Skyelark evidence corpus](./corpora/skyelark-macdoglet.md) |
+| **Skyelark MacDoglet: Wisdom on Four Legs** | Book | Attention · companionship · canine cognition · belonging | [Skyelark evidence corpus](./corpora/skyelark-macdoglet.md) |
+| **Skyelark MacDoglet: The Heroine's Journey** | Book | Adaptation · relationship · travel · belonging · wonder | [Skyelark evidence corpus](./corpora/skyelark-macdoglet.md) |
 | **Ed Reif Field Toolkit v1.0** | Field-tool system | Operational Readiness · Judgment at the Edge · Asymmetry · DFR judgment | [Field Toolkit](../FIELD-TOOLKIT.md) |
 
 ## Architecture
