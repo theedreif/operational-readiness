@@ -123,3 +123,12 @@ Operational readiness asks:
 ## Pass Five — Machine-Readable Knowledge Graph
 
 - [knowledge-graph.json](./knowledge-graph.json) — structured nodes, claims, edges, evidence relationships, and provenance rules for machine retrieval and graph traversal.
+
+
+---
+
+## Field System Field Card
+
+**Seven Doors. Core operating loops. Field instruments. Evidence ladder.**
+
+[Download the Ed Reif Field System Field Card](https://github.com/theedreif/theedreif/blob/main/assets/field-system/Ed-Reif-Field-System-Field-Card.pdf) — the portable reference for the complete Field System.
