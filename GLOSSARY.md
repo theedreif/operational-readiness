@@ -43,4 +43,14 @@ A deliberate change to a belief, decision, procedure, scenario, interface, or le
 
 ---
 
-**System:** BUILD → DECIDE → POSITION → TEST → UPDATE
+## Architecture Context
+
+The compact toolkit loop used across several field tools is:
+
+**Toolkit operating loop:** BUILD → DECIDE → POSITION → TEST → UPDATE
+
+It is a local mechanism inside the larger architecture, not the complete Field System.
+
+**Ed Reif Field System:** BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY
+
+See the canonical [Ed Reif Field System Manifest v1.0](https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md).
