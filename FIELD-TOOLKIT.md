@@ -8,7 +8,7 @@ The **Ed Reif Field Toolkit** is a practical collection of compact tools for the
 
 The tools are designed to help people and teams **build capability, structure decisions, retrieve critical information, design realistic practice, evaluate readiness, shape exposure, and work around autonomous systems** when conditions are uncertain.
 
-> # BUILD → DECIDE → POSITION → TEST → UPDATE
+> # TOOLKIT LOOP: BUILD → DECIDE → POSITION → TEST → UPDATE
 
 ## Start Here
 
@@ -146,19 +146,23 @@ A completed course is evidence of completion—not automatically evidence of cap
 
 # The Field System
 
-The toolkit sits inside four connected bodies of work:
+The six-tool toolkit is a compact operating layer that spans several Doors of the larger **Ed Reif Field System**. Its local loop remains useful:
 
-**[Operational Readiness](https://github.com/theedreif/operational-readiness)** — build the capability.
+> **Toolkit operating loop: BUILD → DECIDE → POSITION → TEST → UPDATE**
 
-**[Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)** — make the decision.
+That loop does **not** redefine the complete Field System. The canonical architecture is:
 
-**[Decision Science](https://github.com/theedreif/decision-science)** — design the bet.
+1. **[BUILD · Operational Readiness](https://github.com/theedreif/operational-readiness)** — build capability that survives reality.
+2. **[DECIDE · Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)** — make defensible decisions under uncertainty.
+3. **[POSITION · Decision Science](https://github.com/theedreif/decision-science)** — design exposure, asymmetry, and optionality.
+4. **[COMMUNICATE · High-Consequence Communication](https://github.com/theedreif/high-consequence-communication)** — make meaning survive the handoff.
+5. **[PROVE · Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab)** — stress-test doctrine against friction.
+6. **[UPDATE · Field Notes](https://github.com/theedreif/field-notes)** — capture what reality teaches.
+7. **[DEPLOY · ORaaS](https://github.com/theedreif/oraas)** — keep readiness operating continuously.
 
-**[Field Notes](https://github.com/theedreif/field-notes)** — test the ideas against reality.
+> **Field System: BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**
 
-Together:
-
-> # BUILD → DECIDE → POSITION → TEST → UPDATE
+See the canonical [Ed Reif Field System Manifest v1.0](https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md).
 
 # Use the Toolkit
 

@@ -1,6 +1,6 @@
 # Ed Reif Source Architecture
 
-**Identity → Evidence Domains → Synthesis → Formal Knowledge → Application → Provenance**
+**Origin → Evidence Domains → Synthesis → Field System → Application → Evidence → Provenance**
 
 This document defines the role of the public sources that feed the Ed Reif Field System.
 
@@ -17,50 +17,40 @@ The architecture does not imply that every source, experience, company, platform
 ## 1. Source-System Map
 
 ```text
-                         EDREIF.COM
-                    CANONICAL IDENTITY HUB
-                             │
-                 IDENTITY / CLAIMS / SYNTHESIS
-                             │
-       ┌─────────────────────┼──────────────────────┐
-       │                     │                      │
-       ▼                     ▼                      ▼
- DECISION SCIENCE         DEJA BLUE          SHARE FAIR ISLE
- Probability / Poker    Maritime / Mobility   Adaptation / Place
- Asymmetry / EV         Life at Sea           Constraint / Time
- Judgment / Risk        Global Experience     Remote-Island Life
-       │                     │                      │
-       └─────────────────────┼──────────────────────┘
-                             │
-                 ┌───────────┴───────────┐
-                 ▼                       ▼
-             ROCK & ROAM          SKYELARK MACDOGLET
-        Geographic Optionality   Attention / Companionship
-        Remote Work / Base       Cognition / Belonging
-        Mobility / Output        Human–Canine Relationship
-                 │                       │
-                 └───────────┬───────────┘
-                             ▼
-                    PUBLIC SOURCE EVIDENCE
-                             │
-                             ▼
-                      BOOKS / SYNTHESIS
-                             │
-                             ▼
-                         GITHUB
-                  FORMAL KNOWLEDGE LAYER
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-           CONCEPTS       FIELD TOOLS    CASE STUDIES
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                          EVIDENCE
-                             │
-                             ▼
-                         PROVENANCE
+                            SIX WORLDS
+                              ORIGIN
+                                │
+                                ▼
+                         PUBLIC EXPERIENCE
+                         + SOURCE EVIDENCE
+                                │
+                                ▼
+                         BOOKS / SYNTHESIS
+                                │
+                                ▼
+                       ED REIF FIELD SYSTEM
+                              SYSTEM
+                                │
+                                ▼
+                          SEVEN DOORS
+                            OPERATION
+                                │
+       BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY
+                                │
+                                ▼
+                    CONCEPTS / TOOLS / CASES
+                                │
+                                ▼
+                       FRICTION / EVIDENCE
+                                │
+                                ▼
+                         PROVENANCE / UPDATE
+                                ↺
 ```
+
+The six public Worlds document **origin**: where experience, observation, and public evidence came from. The Seven Doors organize **operation**: how the formal body of work is entered and used. The **Ed Reif Field System** connects those layers without treating Worlds and Doors as one-to-one equivalents.
+
+Canonical governance: [Ed Reif Field System Manifest v1.0](https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md).
 
 ---
 
@@ -307,44 +297,47 @@ Skyelark is a living subject, not simply a metaphor for professional doctrine.
 
 ## 8. GitHub — Formal Knowledge Layer
 
-**Source:** https://github.com/theedreif/operational-readiness
+**Canonical governance:** https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md
 
 ### Role
-GitHub is where distributed public evidence is converted into a structured, navigable knowledge system.
+GitHub is the distributed formal knowledge layer of the Ed Reif Field System. The profile repository governs the system-wide architecture; each functional Door owns its domain-specific doctrine, tools, experiments, updates, or deployment model.
 
-It contains:
-- concept definitions
-- field tools
-- case studies
-- evidence corpora
-- IP/publication registry
-- provenance rules
-- the Knowledge Graph
-- Claim → Evidence mapping
-- this Source Architecture
+### Seven canonical Door repositories
+
+1. **BUILD — [Operational Readiness](https://github.com/theedreif/operational-readiness)**
+2. **DECIDE — [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)**
+3. **POSITION — [Decision Science](https://github.com/theedreif/decision-science)**
+4. **COMMUNICATE — [High-Consequence Communication](https://github.com/theedreif/high-consequence-communication)**
+5. **PROVE — [Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab)**
+6. **UPDATE — [Field Notes](https://github.com/theedreif/field-notes)**
+7. **DEPLOY — [ORaaS](https://github.com/theedreif/oraas)**
+
+The Operational Readiness repository continues to host the cross-domain Knowledge Graph, Source Architecture, Evidence Locker, concept library, and provenance layer. It no longer stands in for the complete GitHub architecture.
 
 ### Graph role
 
 ```text
-DISTRIBUTED PUBLIC SOURCES
-           ↓
-        GITHUB
-           ↓
-  STRUCTURED CONCEPTS
-           ↓
-         TOOLS
-           ↓
-      APPLICATIONS
-           ↓
-        EVIDENCE
-           ↓
-       PROVENANCE
+SIX WORLDS / PUBLIC SOURCES
+            ↓
+      BOOKS / SYNTHESIS
+            ↓
+   FIELD SYSTEM MANIFEST
+            ↓
+        SEVEN DOORS
+            ↓
+ DOCTRINE / TOOLS / LAB / NOTES / DEPLOYMENT
+            ↓
+          EVIDENCE
+            ↓
+        PROVENANCE
+            ↓
+          UPDATE
 ```
 
 ### Evidence role
-**Formal documentation and relationship layer**
+**Formal documentation, relationship, governance, and traceability layer**
 
-GitHub does not replace the original sources. It points back to them and explains their relationships.
+GitHub does not replace the original sources. It preserves their relationships, formalizes the concepts and tools derived from them, and links claims back to evidence and provenance.
 
 ---
 

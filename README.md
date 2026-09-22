@@ -27,7 +27,7 @@ This repository explores how people prepare to **notice, decide, act, and adapt 
 
 Six practical tools for operational readiness, judgment under uncertainty, and decision science.
 
-> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+> **Toolkit loop:** BUILD → DECIDE → POSITION → TEST → UPDATE
 
 **[Open the Ed Reif Field Toolkit v1.0](./FIELD-TOOLKIT.md)**
 

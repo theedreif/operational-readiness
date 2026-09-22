@@ -7,6 +7,12 @@
 
 This file is the connective layer for the Ed Reif Field System. It maps concepts to tools, publications, applications, field experience, public archives, and provenance.
 
+It does not redefine the system architecture. The canonical governance record is the [Ed Reif Field System Manifest v1.0](https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md):
+
+> **Six Worlds = ORIGIN · Seven Doors = OPERATION · One Field System = SYSTEM**
+
+> **BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**
+
 It is not a claim that every experience is intellectual property. Its purpose is to make relationships visible and evidence traceable.
 
 ---
@@ -47,7 +53,7 @@ ED REIF
 │   └── operator / maintainer judgment
 │
 ├── HIGH-CONSEQUENCE COMMUNICATION
-│   ├── said → heard → understood → done
+│   ├── said → heard → understood → acted → verified
 │   ├── language as safety equipment
 │   ├── ambiguity as hazard
 │   ├── phraseology under degradation
@@ -252,7 +258,7 @@ A recurring distinction is:
 **Question:** What happens when the gap between what was said and what was understood has operational consequences?
 
 ```text
-SAID → HEARD → UNDERSTOOD → DONE
+SAID → HEARD → UNDERSTOOD → ACTED → VERIFIED
 ```
 
 ### Field evidence

@@ -8,8 +8,8 @@
   "@id": "repo:knowledge-graph.json",
   "@type": "Dataset",
   "name": "Ed Reif Field System Knowledge Graph",
-  "version": "1.0",
-  "description": "Pass Five machine-readable graph connecting identity, claims, concepts, artifacts, applications, evidence and provenance.",
+  "version": "1.1",
+  "description": "Machine-readable graph connecting the Ed Reif Field System, Six Worlds of origin, Seven Doors of operation, identity, claims, concepts, artifacts, applications, evidence, and provenance.",
   "license": "Repository terms apply.",
   "governingChain": [
     "IDENTITY",
@@ -26,9 +26,115 @@
     "sourceArchitecture": "https://github.com/theedreif/operational-readiness/blob/main/SOURCE-ARCHITECTURE.md",
     "claimEvidenceMap": "https://github.com/theedreif/operational-readiness/blob/main/evidence-locker/CLAIM-EVIDENCE-MAP.md",
     "provenance": "https://github.com/theedreif/operational-readiness/blob/main/PROVENANCE.md",
-    "evidenceLocker": "https://github.com/theedreif/operational-readiness/tree/main/evidence-locker"
+    "evidenceLocker": "https://github.com/theedreif/operational-readiness/tree/main/evidence-locker",
+    "canonicalManifest": "https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md",
+    "goldenThread": "https://github.com/theedreif/theedreif/blob/main/assets/field-system/The%20Golden%20Thread.jpeg",
+    "fieldCard": "https://github.com/theedreif/theedreif/blob/main/assets/field-system/Ed-Reif-Field-System-Field-Card.pdf",
+    "fieldSystem": {
+      "name": "Ed Reif Field System",
+      "version": "1.0",
+      "model": "BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY",
+      "rule": "Six Worlds = ORIGIN; Seven Doors = OPERATION; One Field System = SYSTEM"
+    },
+    "sixWorlds": [
+      "source:edreif",
+      "source:decision-science",
+      "source:deja-blue",
+      "source:share-fair-isle",
+      "source:rock-and-roam",
+      "source:skyelark"
+    ],
+    "sevenDoors": [
+      "door:build",
+      "door:decide",
+      "door:position",
+      "door:communicate",
+      "door:prove",
+      "door:update",
+      "door:deploy"
+    ]
   },
   "nodes": [
+    {
+      "id": "artifact:field-system-field-card",
+      "type": "CreativeWork",
+      "name": "Ed Reif Field System Field Card",
+      "url": "https://github.com/theedreif/theedreif/blob/main/assets/field-system/Ed-Reif-Field-System-Field-Card.pdf",
+      "role": "portable system reference"
+    },
+    {
+      "id": "artifact:field-system-manifest",
+      "type": "CreativeWork",
+      "name": "Ed Reif Field System Manifest v1.0",
+      "url": "https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md",
+      "role": "canonical governance record"
+    },
+    {
+      "id": "concept:field-system-golden-thread",
+      "type": "DefinedTerm",
+      "name": "Golden Thread",
+      "model": "EXPERIENCE → DOCTRINE → JUDGMENT → TOOL → FRICTION → EVIDENCE → UPDATE",
+      "url": "https://github.com/theedreif/theedreif/blob/main/assets/field-system/The%20Golden%20Thread.jpeg",
+      "scope": "Canonical Field System traceability rule."
+    },
+    {
+      "id": "door:deploy",
+      "type": "DefinedTerm",
+      "name": "DEPLOY — ORaaS",
+      "function": "Operational Readiness-as-a-Service",
+      "url": "https://github.com/theedreif/oraas"
+    },
+    {
+      "id": "door:update",
+      "type": "DefinedTerm",
+      "name": "UPDATE — Field Notes",
+      "function": "Field Notes",
+      "url": "https://github.com/theedreif/field-notes"
+    },
+    {
+      "id": "door:prove",
+      "type": "DefinedTerm",
+      "name": "PROVE — Operational Readiness Lab",
+      "function": "Operational Readiness Lab",
+      "url": "https://github.com/theedreif/operational-readiness-lab"
+    },
+    {
+      "id": "door:communicate",
+      "type": "DefinedTerm",
+      "name": "COMMUNICATE — High-Consequence Communication",
+      "function": "High-Consequence Communication",
+      "url": "https://github.com/theedreif/high-consequence-communication"
+    },
+    {
+      "id": "door:position",
+      "type": "DefinedTerm",
+      "name": "POSITION — Decision Science",
+      "function": "Decision Science",
+      "url": "https://github.com/theedreif/decision-science"
+    },
+    {
+      "id": "door:decide",
+      "type": "DefinedTerm",
+      "name": "DECIDE — Judgment at the Edge",
+      "function": "Judgment at the Edge",
+      "url": "https://github.com/theedreif/judgment-at-the-edge"
+    },
+    {
+      "id": "door:build",
+      "type": "DefinedTerm",
+      "name": "BUILD — Operational Readiness",
+      "function": "Operational Readiness",
+      "url": "https://github.com/theedreif/operational-readiness"
+    },
+    {
+      "id": "system:ed-reif-field-system",
+      "type": "CreativeWork",
+      "name": "Ed Reif Field System",
+      "version": "1.0",
+      "model": "BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY",
+      "url": "https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md",
+      "scope": "Seven Doors organize operation; Six Worlds document origin."
+    },
     {
       "id": "person:ed-reif",
       "type": "Person",
@@ -50,7 +156,7 @@
       "id": "concept:judgment-at-the-edge",
       "type": "DefinedTerm",
       "name": "Judgment at the Edge",
-      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/judgment-at-the-edge.md"
+      "url": "https://github.com/theedreif/judgment-at-the-edge"
     },
     {
       "id": "concept:45-second-rule",
@@ -81,7 +187,7 @@
       "id": "concept:asymmetrical-decision-making",
       "type": "DefinedTerm",
       "name": "Asymmetrical Decision Making",
-      "url": "https://github.com/theedreif/operational-readiness/blob/main/concepts/asymmetrical-decision-making.md"
+      "url": "https://github.com/theedreif/decision-science"
     },
     {
       "id": "concept:human-judgment-around-autonomy",
@@ -93,7 +199,8 @@
       "id": "concept:high-consequence-communication",
       "type": "DefinedTerm",
       "name": "High-Consequence Communication",
-      "model": "SAID → HEARD → UNDERSTOOD → DONE"
+      "model": "SAID → HEARD → UNDERSTOOD → ACTED → VERIFIED",
+      "url": "https://github.com/theedreif/high-consequence-communication"
     },
     {
       "id": "concept:portable-life",
@@ -311,8 +418,10 @@
     {
       "id": "concept:golden-thread",
       "type": "DefinedTerm",
-      "name": "Golden Thread",
-      "model": "COUNT THE POSSIBILITIES → PRICE THE CONSEQUENCES → SURVIVE THE VARIANCE → UPDATE THE MODEL"
+      "name": "Decision Science Exposure Sequence",
+      "model": "COUNT THE POSSIBILITIES → PRICE THE CONSEQUENCES → SURVIVE THE VARIANCE → UPDATE THE MODEL",
+      "legacyName": "Golden Thread",
+      "scope": "Local decision-science sequence retained for provenance; not the canonical Field System Golden Thread."
     },
     {
       "id": "tool:decision-ledger",
@@ -685,6 +794,111 @@
       "from": "series:asymmetrical-life",
       "relation": "SYNTHESIZED_BY",
       "to": "corpus:living-asymmetrical-life"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "HAS_DOOR",
+      "to": "door:build"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "HAS_DOOR",
+      "to": "door:decide"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "HAS_DOOR",
+      "to": "door:position"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "HAS_DOOR",
+      "to": "door:communicate"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "HAS_DOOR",
+      "to": "door:prove"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "HAS_DOOR",
+      "to": "door:update"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "HAS_DOOR",
+      "to": "door:deploy"
+    },
+    {
+      "from": "source:edreif",
+      "relation": "ORIGIN_EVIDENCE_FOR",
+      "to": "system:ed-reif-field-system"
+    },
+    {
+      "from": "source:decision-science",
+      "relation": "ORIGIN_EVIDENCE_FOR",
+      "to": "system:ed-reif-field-system"
+    },
+    {
+      "from": "source:deja-blue",
+      "relation": "ORIGIN_EVIDENCE_FOR",
+      "to": "system:ed-reif-field-system"
+    },
+    {
+      "from": "source:share-fair-isle",
+      "relation": "ORIGIN_EVIDENCE_FOR",
+      "to": "system:ed-reif-field-system"
+    },
+    {
+      "from": "source:rock-and-roam",
+      "relation": "ORIGIN_EVIDENCE_FOR",
+      "to": "system:ed-reif-field-system"
+    },
+    {
+      "from": "source:skyelark",
+      "relation": "ORIGIN_EVIDENCE_FOR",
+      "to": "system:ed-reif-field-system"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "GOVERNED_BY",
+      "to": "artifact:field-system-manifest"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "TRACED_BY",
+      "to": "concept:field-system-golden-thread"
+    },
+    {
+      "from": "system:ed-reif-field-system",
+      "relation": "SUMMARIZED_BY",
+      "to": "artifact:field-system-field-card"
+    },
+    {
+      "from": "concept:operational-readiness",
+      "relation": "OWNED_BY_DOOR",
+      "to": "door:build"
+    },
+    {
+      "from": "concept:judgment-at-the-edge",
+      "relation": "OWNED_BY_DOOR",
+      "to": "door:decide"
+    },
+    {
+      "from": "concept:asymmetrical-decision-making",
+      "relation": "OWNED_BY_DOOR",
+      "to": "door:position"
+    },
+    {
+      "from": "concept:high-consequence-communication",
+      "relation": "OWNED_BY_DOOR",
+      "to": "door:communicate"
+    },
+    {
+      "from": "artifact:field-toolkit",
+      "relation": "OPERATES_WITHIN",
+      "to": "system:ed-reif-field-system"
     }
   ],
   "provenanceRules": [
@@ -692,6 +906,8 @@
     "Independent analysis is not client engagement.",
     "Speculative proposals are not contracts or endorsements.",
     "Lived-experience evidence supports claims about documented experience and synthesis, not ownership of external events.",
-    "The 45-Second Rule is an Ed Reif design heuristic, not a universal scientific threshold."
+    "The 45-Second Rule is an Ed Reif design heuristic, not a universal scientific threshold.",
+    "Six Worlds describe origin and public evidence; Seven Doors describe operational functions. They are related layers, not one-to-one mappings.",
+    "Local loops and domain-specific sequences do not redefine the canonical Seven-Door Field System or the canonical Field System Golden Thread."
   ]
 }
