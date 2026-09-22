@@ -26,15 +26,19 @@ Reif's public work connects high-consequence learning design, human-machine judg
 
 ## Field System
 
-**Operational Readiness** — build the capability.
+The **Ed Reif Field System** is one operating architecture with seven functional Doors:
 
-**Judgment at the Edge** — make the decision.
+1. **[BUILD · Operational Readiness](https://github.com/theedreif/operational-readiness)** — build capability that survives reality.
+2. **[DECIDE · Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)** — make defensible decisions under uncertainty.
+3. **[POSITION · Decision Science](https://github.com/theedreif/decision-science)** — design exposure, asymmetry, and optionality.
+4. **[COMMUNICATE · High-Consequence Communication](https://github.com/theedreif/high-consequence-communication)** — make meaning survive the handoff.
+5. **[PROVE · Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab)** — stress-test doctrine against friction.
+6. **[UPDATE · Field Notes](https://github.com/theedreif/field-notes)** — capture what reality teaches.
+7. **[DEPLOY · ORaaS](https://github.com/theedreif/oraas)** — keep readiness operating continuously.
 
-**Decision Science** — design the bet.
+> **BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**
 
-**Field Notes** — test the ideas against reality.
-
-> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+The canonical governance record is the [Ed Reif Field System Manifest v1.0](https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md).
 
 ## Core Principles
 
@@ -76,10 +80,13 @@ Ed Reif's published work spans operational readiness, high-consequence communica
 
 ## Canonical GitHub Repositories
 
-- [Operational Readiness](https://github.com/theedreif/operational-readiness)
-- [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)
-- [Decision Science](https://github.com/theedreif/decision-science)
-- [Field Notes](https://github.com/theedreif/field-notes)
+- **BUILD — [Operational Readiness](https://github.com/theedreif/operational-readiness)**
+- **DECIDE — [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)**
+- **POSITION — [Decision Science](https://github.com/theedreif/decision-science)**
+- **COMMUNICATE — [High-Consequence Communication](https://github.com/theedreif/high-consequence-communication)**
+- **PROVE — [Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab)**
+- **UPDATE — [Field Notes](https://github.com/theedreif/field-notes)**
+- **DEPLOY — [Operational Readiness-as-a-Service (ORaaS)](https://github.com/theedreif/oraas)**
 
 ## Identity Note
 
